@@ -37,13 +37,14 @@ I learned the information that this is an old forum only from Satoshi himself on
 ![](docs/p2p.png)  
   
 [Bitcointalk.org](https://bitcointalk.org/index.php?action=profile;u=3)  
->Satoshi has 575 posts in this forum
+>Satoshi has 575 posts in this forum  
 The [account](https://bitcointalk.org/index.php?action=profile;u=3) on this forum has not been hacked yet  
 ![](docs/bitcointalk_profile.png)  
   
 >Also I didn`t find the so-called "farewell" Satoshi message. His latest forum posts show that he continues to work.  
 So Satoshi just suddenly disappeared without telling anyone?  
 ![](docs/last_message.png)  
+  
 So, another important figure in our history is [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)).  
 >Today, with a very high degree of probability, one can be sure that Hal Finney is the first in history, after Satoshi Nakamoto, a user and miner of bitcoin  
   

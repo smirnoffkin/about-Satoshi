@@ -11,15 +11,15 @@ For convenience, I will use [blockchain.com](https://www.blockchain.com/explorer
 So, I want to pay attention to the initial moments of the launch of bitcoin.  
 __Bitcoin chronology:__  
 
->31.10.2008 - Bitcoin [Whitepaper](https://bitcoin.org/bitcoin.pdf) by Satoshi Nakamoto  
+>31.10.2008 - Bitcoin [Whitepaper](https://bitcoin.org/bitcoin.pdf) by Satoshi Nakamoto.  
 >03.01.2009 - Launch of the [first Bitcoin block](https://www.blockchain.com/btc/tx/4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b), commonly referred to as the [Genesis block](https://www.blockchain.com/btc/tx/4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b).  
 >12.01.2009 - The first ever [Bitcoin transaction](https://www.blockchain.com/btc/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16).  
   
 But back to Satoshi.  
 As far as I could find, Satoshi talked on 3 forums:  
->some first [bitcoin forum](http://bitcoin.sourceforge.net/boards/index.php) which is now closed  
->[bitcointalk.org](https://bitcointalk.org/index.php?action=profile;u=3) - the main forum where Satoshi communicated  
->[p2pfoundation.com](http://p2pfoundation.ning.com/profile/SatoshiNakamoto)  
+>some first [bitcoin forum](http://bitcoin.sourceforge.net/boards/index.php) which is now closed.  
+>[bitcointalk.org](https://bitcointalk.org/index.php?action=profile;u=3) - the main forum where Satoshi communicated.  
+>[p2pfoundation.com](http://p2pfoundation.ning.com/profile/SatoshiNakamoto).  
   
 _Also use [satoshi.nakamotoinstitute.org](https://satoshi.nakamotoinstitute.org) - this community has tried to collect all the messages that Satoshi has ever left on the internet._  
   
@@ -36,9 +36,9 @@ I learned the information that this is an old forum only from Satoshi himself on
 >It was this account that was hacked in 2014 and now bad people [sometimes write something on his behalf, trying to earn extra money](http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A52186).
 ![](docs/p2p.png)  
   
-[Bitcointalk.org](https://bitcointalk.org/index.php?action=profile;u=3)  
->Satoshi has 575 posts in this forum  
-The [account](https://bitcointalk.org/index.php?action=profile;u=3) on this forum has not been hacked yet  
+[Bitcointalk.org](https://bitcointalk.org/index.php?action=profile;u=3):  
+>Satoshi has 575 posts in this forum.  
+The [account](https://bitcointalk.org/index.php?action=profile;u=3) on this forum has not been hacked yet.  
 ![](docs/bitcointalk_profile.png)  
   
 >Also I didn`t find the so-called "farewell" Satoshi message. His latest forum posts show that he continues to work.  
@@ -46,18 +46,19 @@ So Satoshi just suddenly disappeared without telling anyone?
 ![](docs/last_message.png)  
   
 So, another important figure in our history is [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)).  
->Today, with a very high degree of probability, one can be sure that Hal Finney is the first in history, after Satoshi Nakamoto, a user and miner of bitcoin  
+>Today, with a very high degree of probability, one can be sure that Hal Finney is the first in history, after Satoshi Nakamoto, a user and miner of bitcoin.  
   
-I learned about this man from the [podcast with Vitalik Buterin](https://www.youtube.com/watch?v=3x1b_S6Qp2Q&t=284s)  
+I learned about this man from the [podcast with Vitalik Buterin](https://www.youtube.com/watch?v=3x1b_S6Qp2Q&t=284s).  
   
->Absolute proof that Hal Finney was the first bitcoin user we learn [from him](https://twitter.com/halfin/status/1110302988?ref_src=twsrc%5Etfw)  
+>Absolute proof that Hal Finney was the first bitcoin user we learn [from him](https://twitter.com/halfin/status/1110302988?ref_src=twsrc%5Etfw):  
 ![](docs/first_twit.png)  
   
-_But from here I have a question to which I did not find an answer. As we know, the first transaction in bitcoin was 12.01.2009_  
+_But from here I have a question to which I did not find an answer. As we know, the first transaction in bitcoin was 12.01.2009_.  
 __Why is the difference between the first ever [tweet](https://twitter.com/halfin/status/1110302988?ref_src=twsrc%5Etfw) about bitcoin and the first ever [transaction](https://www.blockchain.com/btc/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16) in bitcoin exactly 1 day?__   
 Why did they make the transaction exactly 1 day later? What were they discussing at that moment? For some reason I'm interested.  
   
->So, also from the story of [Hal himself](https://bitcointalk.org/index.php?topic=155054.msg1643833#msg1643833 ), we learn that he communicated with Satoshi by email, where they mainly communicated about technical problems. Also, if he is to be trusted, he has been a miner since around 70-th block.  
+>So, also from the story of [Hal himself](https://bitcointalk.org/index.php?topic=155054.msg1643833#msg1643833 ), we learn that he communicated with Satoshi by email, where they mainly communicated about technical problems.  
+Also, if he is to be trusted, he has been a miner since around 70-th block.  
 ![](docs/hal_story.png)  
   
 __Can Satoshi be alive?__   

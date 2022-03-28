@@ -48,7 +48,7 @@ So Satoshi just suddenly disappeared without telling anyone?
 So, another important figure in our history is [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)).  
 >Today, with a very high degree of probability, one can be sure that Hal Finney is the first in history, after Satoshi Nakamoto, a user and miner of bitcoin  
   
-I learned about this man from the [podcast with Vitalik Buterin](www.youtube.com/watch?v=3x1b_S6Qp2Q&t=284s)  
+I learned about this man from the [podcast with Vitalik Buterin](https://www.youtube.com/watch?v=3x1b_S6Qp2Q&t=284s)  
   
 >Absolute proof that Hal Finney was the first bitcoin user we learn [from him](https://twitter.com/halfin/status/1110302988?ref_src=twsrc%5Etfw)  
 ![](docs/first_twit.png)  

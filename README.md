@@ -17,16 +17,16 @@ __Bitcoin chronology:__
   
 But back to Satoshi.  
 As far as I could find, Satoshi talked on 3 forums:  
->some first [bitcoin forum](http://bitcoin.sourceforge.net/boards/index.php) which is now closed
->[bitcointalk.org](https://bitcointalk.org/index.php?action=profile;u=3) - the main forum where Satoshi communicated
->[p2pfoundation.com](http://p2pfoundation.ning.com/profile/SatoshiNakamoto)
+>some first [bitcoin forum](http://bitcoin.sourceforge.net/boards/index.php) which is now closed  
+>[bitcointalk.org](https://bitcointalk.org/index.php?action=profile;u=3) - the main forum where Satoshi communicated  
+>[p2pfoundation.com](http://p2pfoundation.ning.com/profile/SatoshiNakamoto)  
   
 _Also use [satoshi.nakamotoinstitute.org](https://satoshi.nakamotoinstitute.org) - this community has tried to collect all the messages that Satoshi has ever left on the internet._  
   
 Some [first bitcoin forum](http://bitcoin.sourceforge.net/boards/index.php):  
   
->I tried to find a copy of it in the WebArchive, but without success.
-Perhaps someone has his cast, and you can somehow find it and find out the first messages of Satoshi.
+>I tried to find a copy of it in the WebArchive, but without success.  
+Perhaps someone has his cast, and you can somehow find it and find out the first messages of Satoshi.  
 I learned the information that this is an old forum only from Satoshi himself on the new forum:  
 ![](docs/new%20forum.png)  
   
@@ -38,7 +38,7 @@ I learned the information that this is an old forum only from Satoshi himself on
   
 [Bitcointalk.org](https://bitcointalk.org/index.php?action=profile;u=3)  
 >Satoshi has 575 posts in this forum
-The [account](https://bitcointalk.org/index.php?action=profile;u=3) on this forum has not been hacked yet
+The [account](https://bitcointalk.org/index.php?action=profile;u=3) on this forum has not been hacked yet  
 ![](docs/bitcointalk_profile.png)  
   
 >Also I didn`t find the so-called "farewell" Satoshi message. His latest forum posts show that he continues to work.  

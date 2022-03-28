@@ -1,4 +1,4 @@
-#Strange moments in the history of the Satoshi Nakamoto  
+Strange moments in the history of the Satoshi Nakamoto  
 ---
 __In this note I want to notice some points in the history of bitcoin that are not obvious and they are not paid attention to in large articles.__  
 __I will not speculate who Satoshi Nakamoto is.__  
@@ -9,7 +9,7 @@ Maybe in the future it will help someone in learning the history of bitcoin._
 For convenience, I will use [blockchain.com](https://www.blockchain.com/explorer) as blockchain explorer, you can use any convenient for you, for example, [blockchair.com](https://blockchair.com/bitcoin).  
 ***
 So, I want to pay attention to the initial moments of the launch of bitcoin.  
-#####Bitcoin chronology:  
+__Bitcoin chronology:__  
 
 >31.10.2008 - Bitcoin [Whitepaper](https://bitcoin.org/bitcoin.pdf) by Satoshi Nakamoto  
 >03.01.2009 - Launch of the [first Bitcoin block](https://www.blockchain.com/btc/tx/4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b), commonly referred to as the [Genesis block](https://www.blockchain.com/btc/tx/4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b).  
@@ -23,20 +23,20 @@ As far as I could find, Satoshi talked on 3 forums:
   
 _Also use [satoshi.nakamotoinstitute.org](https://satoshi.nakamotoinstitute.org) - this community has tried to collect all the messages that Satoshi has ever left on the internet._  
   
-######Some [first bitcoin forum](http://bitcoin.sourceforge.net/boards/index.php):  
+Some [first bitcoin forum](http://bitcoin.sourceforge.net/boards/index.php):  
   
 >I tried to find a copy of it in the WebArchive, but without success.
 Perhaps someone has his cast, and you can somehow find it and find out the first messages of Satoshi.
 I learned the information that this is an old forum only from Satoshi himself on the new forum:  
 ![](docs/new%20forum.png)  
   
-######[P2PFoundation](http://p2pfoundation.ning.com/profile/SatoshiNakamoto):
+[P2PFoundation](http://p2pfoundation.ning.com/profile/SatoshiNakamoto):
   
 >Satoshi has only 3 posts on this forum:  
 >It was this account that was hacked in 2014 and now bad people [sometimes write something on his behalf, trying to earn extra money](http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A52186).
 ![](docs/p2p.png)  
   
-######[Bitcointalk.org](https://bitcointalk.org/index.php?action=profile;u=3)  
+[Bitcointalk.org](https://bitcointalk.org/index.php?action=profile;u=3)  
 >Satoshi has 575 posts in this forum
 The [account](https://bitcointalk.org/index.php?action=profile;u=3) on this forum has not been hacked yet
 ![](docs/bitcointalk_profile.png)  
@@ -44,7 +44,7 @@ The [account](https://bitcointalk.org/index.php?action=profile;u=3) on this foru
 >Also I didn`t find the so-called "farewell" Satoshi message. His latest forum posts show that he continues to work.  
 So Satoshi just suddenly disappeared without telling anyone?  
 ![](docs/last_message.png)  
-####So, another important figure in our history is [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)).  
+So, another important figure in our history is [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)).  
 >Today, with a very high degree of probability, one can be sure that Hal Finney is the first in history, after Satoshi Nakamoto, a user and miner of bitcoin  
   
 I learned about this man from the [podcast with Vitalik Buterin](www.youtube.com/watch?v=3x1b_S6Qp2Q&t=284s)  
@@ -59,7 +59,7 @@ Why did they make the transaction exactly 1 day later? What were they discussing
 >So, also from the story of [Hal himself](https://bitcointalk.org/index.php?topic=155054.msg1643833#msg1643833 ), we learn that he communicated with Satoshi by email, where they mainly communicated about technical problems. Also, if he is to be trusted, he has been a miner since around 70-th block.  
 ![](docs/hal_story.png)  
   
-###Can Satoshi be alive?  
+__Can Satoshi be alive?__   
 >We can't know for sure  
   
 __Then why am I asking this question?__  

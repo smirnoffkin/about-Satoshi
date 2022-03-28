@@ -32,7 +32,7 @@ I learned the information that this is an old forum only from Satoshi himself on
   
 [P2PFoundation](http://p2pfoundation.ning.com/profile/SatoshiNakamoto):
   
->Satoshi has only 3 posts on this forum:  
+>Satoshi has only 3 posts on this forum.  
 >It was this account that was hacked in 2014 and now bad people [sometimes write something on his behalf, trying to earn extra money](http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A52186).
 ![](docs/p2p.png)  
   
@@ -41,12 +41,12 @@ I learned the information that this is an old forum only from Satoshi himself on
 The [account](https://bitcointalk.org/index.php?action=profile;u=3) on this forum has not been hacked yet.  
 ![](docs/bitcointalk_profile.png)  
   
->Also I didn`t find the so-called "farewell" Satoshi message. His latest forum posts show that he continues to work.  
+>Also I didn`t find the so-called "farewell" Satoshi message. His latest forum posts show that he continued to work.  
 So Satoshi just suddenly disappeared without telling anyone?  
 ![](docs/last_message.png)  
   
 So, another important figure in our history is [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)).  
->Today, with a very high degree of probability, one can be sure that Hal Finney is the first in history, after Satoshi Nakamoto, a user and miner of bitcoin.  
+>Today, with a very high degree of probability, one can be sure that Hal Finney is the first in history, after Satoshi Nakamoto, user and miner of bitcoin.  
   
 I learned about this man from the [podcast with Vitalik Buterin](https://www.youtube.com/watch?v=3x1b_S6Qp2Q&t=284s).  
   
@@ -58,7 +58,7 @@ __Why is the difference between the first ever [tweet](https://twitter.com/halfi
 Why did they make the transaction exactly 1 day later? What were they discussing at that moment? For some reason I'm interested.  
   
 >So, also from the story of [Hal himself](https://bitcointalk.org/index.php?topic=155054.msg1643833#msg1643833 ), we learn that he communicated with Satoshi by email, where they mainly communicated about technical problems.  
-Also, if he is to be trusted, he has been a miner since around 70-th block.  
+Also, if he is to be trusted, he had been a miner since around 70-th block.  
 ![](docs/hal_story.png)  
   
 __Can Satoshi be alive?__   
@@ -66,7 +66,7 @@ __Can Satoshi be alive?__
   
 __Then why am I asking this question?__  
 >Because there is something to cling to.  
-According to one [forum user](https://bitcointalk.org/index.php?topic=175996.0), Satoshi has been mining non-stop for a little over a year.  
+According to one [forum user](https://bitcointalk.org/index.php?topic=175996.0), Satoshi had been mining non-stop for a little over a year.  
 20.05.2020 a strange [transaction](https://www.blockchain.com/btc/address/17XiVVooLcdCUCMf9s4t4jTExacxwFS5uh?page=7) occurred - funds that were mined in [09.02.2009](https://www.blockchain.com/btc/tx/f38d6f043c070ce9805ee81f46db4d32d0c9f148d62bbfbc0378bc5847c7dc70) and never moved were sent to 2 different addresses.  
 At that time, the block reward was 50 BTC.  
 If you look further in the explorer, he simply sent 40 btc to another address, and sent 10 btc to the bitcoin mixer. Looks like he just wanted to take them out.  

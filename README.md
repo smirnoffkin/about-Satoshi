@@ -41,7 +41,8 @@ I learned the information that this is an old forum only from Satoshi himself on
 The [account](https://bitcointalk.org/index.php?action=profile;u=3) on this forum has not been hacked yet.  
 ![](docs/bitcointalk_profile.png)  
   
->Also I didn`t find the so-called "farewell" Satoshi message. His latest forum posts show that he continued to work.  
+>Also I didn`t find the so-called "farewell" Satoshi message.  
+His latest forum posts show that he continued to work.  
 So Satoshi just suddenly disappeared without telling anyone?  
 ![](docs/last_message.png)  
   
